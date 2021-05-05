@@ -1,0 +1,24 @@
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\DAL\bin\Debug\DAL.dll.config
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\DAL\bin\Debug\DAL.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\DAL\bin\Debug\DAL.pdb
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\DAL\bin\Debug\EntityFramework.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\DAL\bin\Debug\EntityFramework.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\DAL\obj\Debug\DAL.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\DAL\obj\Debug\DAL.pdb
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\DAL\bin\Debug\DAL.dll.config
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\DAL\bin\Debug\DAL.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\DAL\bin\Debug\DAL.pdb
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\DAL\bin\Debug\EntityFramework.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\DAL\bin\Debug\EntityFramework.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\DAL\obj\Debug\DAL.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\DAL\obj\Debug\DAL.pdb
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\DAL\obj\Debug\DAL.csprojAssemblyReference.cache

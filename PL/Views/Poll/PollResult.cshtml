@@ -1,0 +1,13 @@
+﻿@{
+    ViewBag.Title = "PollResult";
+}
+
+<h2>Visitor: <span>@ViewBag.Name</span></h2>
+<h2 style="margin-bottom:0">Favorite genres:</h2>
+<ul>
+    @foreach (string name in ViewBag.Genres)
+    {
+        <li>@name</li>
+    }
+</ul>
+<h2>Will be back again: <span>@ViewBag.Back</span></h2>

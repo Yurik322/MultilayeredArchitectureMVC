@@ -1,0 +1,153 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    font-weight: 600;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+h2 {
+    text-align: center;
+    font-weight: 900;
+}
+
+.container {
+    width: 80%;
+    max-height: 675px;
+    height: 675px;
+    background: linear-gradient(45deg, #005274, #068853);
+}
+
+footer {
+    background-color: #f8f8f8;
+    color: #777;
+    padding: 20px 0 15px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.navbar-brand > img {
+    max-height: 30px;
+    height: 25px;
+    width: auto;
+    padding-left: 150px;
+    margin: 0 auto;
+    -o-object-fit: contain;
+}
+
+.right-sidebar {
+    height: 100%;
+    z-index: 1;
+    overflow: auto;
+}
+
+.bar-block .bar-item {
+    width: 100%;
+    display: block;
+    padding: 8px 16px;
+    text-align: left;
+    border: none;
+    white-space: normal;
+    float: none;
+    outline: 0;
+}
+
+.article {
+    display: inline-block;
+    background-color: white;
+    width: 600px;
+    height: 100px;
+    margin: 10px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+    .article h4 {
+        margin-left: 5px;
+        margin-top: 5px;
+        margin-bottom: 0;
+        text-align: left;
+    }
+
+    .article span {
+        position: relative;
+        top: -20px;
+        float: right;
+        margin-right: 5px;
+    }
+
+    .article p {
+        margin-left: 5px;
+        margin-bottom: 0;
+    }
+
+.comment-text {
+    border-radius: 10px;
+    width: 500px;
+    min-height: 40px;
+    margin-bottom: 15px;
+    background-color: white;
+}
+
+    .comment-text h5 {
+        padding: 10px;
+        margin-top: 0;
+        margin-left: 5px;
+        margin-bottom: 0;
+    }
+
+    .comment-text p {
+        padding: 10px;
+        margin-top: 0;
+        margin-left: 5px;
+        margin-bottom: 0;
+    }
+
+.comment-date {
+    margin-left: 20px;
+    font-size: 10px;
+}
+
+.comment-form {
+    display: block;
+}
+
+.input {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.field-validation-error {
+    color: #f00;
+    background-color: #f8f8f8;
+}
+
+@media only screen and (max-width: 450px) {
+    .navbar-brand > img {
+        max-height: 30px;
+        height: 25px;
+        width: auto;
+        padding-left: 0;
+        margin: 0 auto;
+        -o-object-fit: contain;
+    }
+}

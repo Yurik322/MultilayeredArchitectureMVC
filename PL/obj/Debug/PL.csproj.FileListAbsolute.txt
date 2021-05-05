@@ -1,0 +1,292 @@
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\PL.dll.config
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\PL.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\PL.pdb
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\csc.exe
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\csc.exe.config
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\csc.rsp
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\csi.exe
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\csi.exe.config
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\csi.rsp
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\Microsoft.Managed.Core.targets
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\System.AppContext.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\System.Collections.Immutable.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\System.Console.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\System.Globalization.Calendars.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\System.IO.Compression.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\System.IO.FileSystem.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\System.Net.Http.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\System.Net.Sockets.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\System.Reflection.Metadata.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\System.ValueTuple.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\System.Xml.XmlDocument.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\System.Xml.XPath.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\vbc.exe
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\vbc.exe.config
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\vbc.rsp
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\VBCSCompiler.exe
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\roslyn\VBCSCompiler.exe.config
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\Antlr3.Runtime.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\Microsoft.Web.Infrastructure.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\Newtonsoft.Json.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\System.Web.Helpers.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\System.Web.Mvc.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\System.Web.Optimization.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\System.Web.Razor.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\System.Web.WebPages.Deployment.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\System.Web.WebPages.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\System.Web.WebPages.Razor.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\WebGrease.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\System.Web.Helpers.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\System.Web.Mvc.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\System.Web.Optimization.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\System.Web.Razor.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\System.Web.WebPages.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\System.Web.WebPages.Deployment.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\System.Web.WebPages.Razor.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\Newtonsoft.Json.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\Antlr3.Runtime.pdb
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\obj\Debug\PL.csprojAssemblyReference.cache
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\obj\Debug\PL.csproj.CopyComplete
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\obj\Debug\PL.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\obj\Debug\PL.pdb
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\AutoMapper.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\BLL.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\EntityFramework.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\EntityFramework.SqlServer.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\Ninject.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\Ninject.Web.Common.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\Ninject.Web.Mvc.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\DAL.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\BLL.pdb
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\AutoMapper.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\EntityFramework.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\EntityFramework.SqlServer.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\Ninject.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\Ninject.Web.Common.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\Ninject.Web.Mvc.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\DAL.pdb
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\PL\bin\DAL.dll.config
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\PL.dll.config
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\PL.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\PL.pdb
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\csc.exe
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\csc.exe.config
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\csc.rsp
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\csi.exe
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\csi.exe.config
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\csi.rsp
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\Microsoft.Managed.Core.targets
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\System.AppContext.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\System.Collections.Immutable.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\System.Console.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\System.Globalization.Calendars.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\System.IO.Compression.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\System.IO.FileSystem.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\System.Net.Http.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\System.Net.Sockets.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\System.Reflection.Metadata.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\System.ValueTuple.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\System.Xml.XmlDocument.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\System.Xml.XPath.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\vbc.exe
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\vbc.exe.config
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\vbc.rsp
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\VBCSCompiler.exe
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\roslyn\VBCSCompiler.exe.config
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\Antlr3.Runtime.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\AutoMapper.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\BLL.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\EntityFramework.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\EntityFramework.SqlServer.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\Microsoft.Web.Infrastructure.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\Newtonsoft.Json.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\Ninject.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\Ninject.Web.Common.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\Ninject.Web.Common.WebHost.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\Ninject.Web.Mvc.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\System.Web.Helpers.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\System.Web.Mvc.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\System.Web.Optimization.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\System.Web.Razor.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\System.Web.WebPages.Deployment.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\System.Web.WebPages.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\System.Web.WebPages.Razor.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\WebGrease.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\DAL.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\BLL.pdb
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\AutoMapper.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\EntityFramework.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\EntityFramework.SqlServer.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\Ninject.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\Ninject.Web.Common.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\Ninject.Web.Common.WebHost.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\Ninject.Web.Mvc.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\System.Web.Helpers.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\System.Web.Mvc.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\System.Web.Optimization.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\System.Web.Razor.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\System.Web.WebPages.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\System.Web.WebPages.Deployment.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\System.Web.WebPages.Razor.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\Newtonsoft.Json.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\Antlr3.Runtime.pdb
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\DAL.pdb
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\bin\DAL.dll.config
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\obj\Debug\PL.csprojAssemblyReference.cache
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\obj\Debug\PL.csproj.CopyComplete
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\obj\Debug\PL.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\PL\obj\Debug\PL.pdb
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\PL.dll.config
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\PL.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\PL.pdb
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\csc.exe
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\csc.exe.config
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\csc.rsp
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\csi.exe
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\csi.exe.config
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\csi.rsp
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\Microsoft.Managed.Core.targets
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\System.AppContext.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\System.Collections.Immutable.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\System.Console.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\System.Globalization.Calendars.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\System.IO.Compression.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\System.IO.FileSystem.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\System.Net.Http.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\System.Net.Sockets.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\System.Reflection.Metadata.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\System.ValueTuple.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\System.Xml.XmlDocument.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\System.Xml.XPath.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\vbc.exe
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\vbc.exe.config
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\vbc.rsp
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\VBCSCompiler.exe
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\roslyn\VBCSCompiler.exe.config
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\Antlr3.Runtime.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\AutoMapper.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\BLL.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\EntityFramework.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\EntityFramework.SqlServer.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\Microsoft.Web.Infrastructure.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\Newtonsoft.Json.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\Ninject.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\Ninject.Web.Common.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\Ninject.Web.Common.WebHost.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\Ninject.Web.Mvc.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\System.Web.Helpers.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\System.Web.Mvc.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\System.Web.Optimization.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\System.Web.Razor.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\System.Web.WebPages.Deployment.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\System.Web.WebPages.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\System.Web.WebPages.Razor.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\WebGrease.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\DAL.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\BLL.pdb
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\AutoMapper.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\EntityFramework.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\EntityFramework.SqlServer.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\Ninject.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\Ninject.Web.Common.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\Ninject.Web.Common.WebHost.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\Ninject.Web.Mvc.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\System.Web.Helpers.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\System.Web.Mvc.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\System.Web.Optimization.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\System.Web.Razor.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\System.Web.WebPages.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\System.Web.WebPages.Deployment.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\System.Web.WebPages.Razor.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\Newtonsoft.Json.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\Antlr3.Runtime.pdb
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\DAL.pdb
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\bin\DAL.dll.config
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\obj\Debug\PL.csprojAssemblyReference.cache
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\obj\Debug\PL.csproj.CopyComplete
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\obj\Debug\PL.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\PL\obj\Debug\PL.pdb

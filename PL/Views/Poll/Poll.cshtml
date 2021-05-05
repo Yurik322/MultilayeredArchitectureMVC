@@ -1,0 +1,34 @@
+﻿@model IEnumerable<PL.Models.TestQuestionViewModel>
+
+@using (Html.BeginForm("Poll", "Poll", FormMethod.Post))
+{
+    int counter = 0;
+    foreach (var item in Model)
+    {
+        if (counter == 0)
+        {
+            <h1>@item.Quiz.Title</h1>
+            <p>Введіть ваше ім'я</p>
+            <input type="text" name="name" required />
+            counter++;
+        }
+
+        <h3>@item.Name</h3>
+
+        if (item.MultipleAnswer)
+        {
+            foreach (var answer in item.Answers)
+            {
+                <p><input type="checkbox" name="genres" value="@answer.Name">@answer.Name</p>
+            }
+        }
+        else
+        {
+            foreach (var radio in item.Answers)
+            {
+                <p><input name="wantback" type="radio" value="@radio.Name">@radio.Name</p>
+            }
+        }
+    }
+    <button type="submit">Відправити</button>
+}

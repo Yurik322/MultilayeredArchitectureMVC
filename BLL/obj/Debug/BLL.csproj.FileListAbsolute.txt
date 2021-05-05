@@ -1,0 +1,86 @@
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\BLL\bin\Debug\BLL.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\BLL\bin\Debug\BLL.pdb
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\BLL\bin\Debug\AutoMapper.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\BLL\bin\Debug\DAL.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\BLL\bin\Debug\Ninject.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\BLL\bin\Debug\EntityFramework.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\BLL\bin\Debug\DAL.pdb
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\BLL\bin\Debug\DAL.dll.config
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\BLL\bin\Debug\AutoMapper.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\BLL\bin\Debug\Ninject.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\BLL\bin\Debug\EntityFramework.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\BLL\obj\Debug\BLL.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24\Task24_Low\BLL\obj\Debug\BLL.pdb
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\BLL\bin\Debug\BLL.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\BLL\bin\Debug\BLL.pdb
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\BLL\bin\Debug\AutoMapper.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\BLL\bin\Debug\DAL.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\BLL\bin\Debug\Ninject.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\BLL\bin\Debug\Ninject.Web.Common.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\BLL\bin\Debug\Ninject.Web.Common.WebHost.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\BLL\bin\Debug\Ninject.Web.Mvc.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\BLL\bin\Debug\System.Web.Helpers.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\BLL\bin\Debug\System.Web.Mvc.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\BLL\bin\Debug\System.Web.Razor.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\BLL\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\BLL\bin\Debug\System.Web.WebPages.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\BLL\bin\Debug\System.Web.WebPages.Razor.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\BLL\bin\Debug\EntityFramework.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\BLL\bin\Debug\DAL.pdb
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\BLL\bin\Debug\DAL.dll.config
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\BLL\bin\Debug\AutoMapper.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\BLL\bin\Debug\Ninject.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\BLL\bin\Debug\Ninject.Web.Common.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\BLL\bin\Debug\Ninject.Web.Common.WebHost.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\BLL\bin\Debug\Ninject.Web.Mvc.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\BLL\bin\Debug\System.Web.Helpers.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\BLL\bin\Debug\System.Web.Mvc.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\BLL\bin\Debug\System.Web.Razor.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\BLL\bin\Debug\System.Web.WebPages.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\BLL\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\BLL\bin\Debug\System.Web.WebPages.Razor.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\BLL\bin\Debug\EntityFramework.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\BLL\obj\Debug\BLL.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low\BLL\obj\Debug\BLL.pdb
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\BLL\bin\Debug\BLL.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\BLL\bin\Debug\BLL.pdb
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\BLL\bin\Debug\AutoMapper.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\BLL\bin\Debug\DAL.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\BLL\bin\Debug\Ninject.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\BLL\bin\Debug\Ninject.Web.Common.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\BLL\bin\Debug\Ninject.Web.Common.WebHost.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\BLL\bin\Debug\Ninject.Web.Mvc.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\BLL\bin\Debug\System.Web.Helpers.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\BLL\bin\Debug\System.Web.Mvc.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\BLL\bin\Debug\System.Web.Razor.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\BLL\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\BLL\bin\Debug\System.Web.WebPages.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\BLL\bin\Debug\System.Web.WebPages.Razor.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\BLL\bin\Debug\EntityFramework.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\BLL\bin\Debug\DAL.pdb
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\BLL\bin\Debug\DAL.dll.config
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\BLL\bin\Debug\AutoMapper.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\BLL\bin\Debug\Ninject.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\BLL\bin\Debug\Ninject.Web.Common.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\BLL\bin\Debug\Ninject.Web.Common.WebHost.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\BLL\bin\Debug\Ninject.Web.Mvc.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\BLL\bin\Debug\System.Web.Helpers.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\BLL\bin\Debug\System.Web.Mvc.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\BLL\bin\Debug\System.Web.Razor.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\BLL\bin\Debug\System.Web.WebPages.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\BLL\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\BLL\bin\Debug\System.Web.WebPages.Razor.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\BLL\bin\Debug\EntityFramework.xml
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\BLL\obj\Debug\BLL.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task24_Low\Task24_Low – копія\BLL\obj\Debug\BLL.pdb

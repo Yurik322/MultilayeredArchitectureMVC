@@ -1,0 +1,17 @@
+﻿@model IEnumerable<PL.Models.ArticleViewModel>
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<h2>Main</h2>
+@foreach (var news in Model)
+{
+    <div class="article">
+        <h4>@news.Title</h4>
+        <span>@news.Date</span>
+        <p>
+            @news.Text
+        </p>
+    </div>
+}
